@@ -1,0 +1,6 @@
+[submodule "funding-webapp"]
+	path = funding-webapp
+	url = https://github.com/Filbert-Restu/funding-webapp.git
+[submodule "funding-contracts"]
+	path = funding-contracts
+	url = https://github.com/Filbert-Restu/funding-contracts.git
