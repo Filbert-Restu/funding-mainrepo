@@ -4,3 +4,6 @@
 [submodule "funding-contracts"]
 	path = funding-contracts
 	url = https://github.com/Filbert-Restu/funding-contracts.git
+[submodule "funding-webapi"]
+	path = funding-webapi
+	url = https://github.com/Filbert-Restu/funding-webapi.git
